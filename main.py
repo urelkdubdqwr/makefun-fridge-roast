@@ -1,3 +1,5 @@
+"""Roast a fridge: write a single funny line to entry.txt in the output dir."""
+
 import os
 
 TEXT = (
